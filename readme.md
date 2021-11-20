@@ -10,7 +10,10 @@
 - SQL _ Count by Monthly Active User
 
 ### 3주
-- not yet
+- 실습 쿼리 모두 만들어보기
+- 사용자별 처음과 마지막 채널 알아내기
+- Gross_Revenue가 가장 큰 UserID 10개 찾기
+- 채널 별 월 매출액 테이블 만들기 (본인 스키마 밑에 CTAS로 테이블 만들기)
 
 ### 4주
 - not yet
