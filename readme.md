@@ -20,7 +20,9 @@
 
 ### 4주
 
-- not yet
+- ETL 실습 코드 개선(colab 활용)
+- 4주차 강의 내용 중 airflow 관련 퀴즈 풀기(google reseach)
+- Airflow 설치하기(ec2에 할당된 계정에 airflow 설치)
 
 ### 5주
 
