@@ -26,7 +26,9 @@
 
 ### 5주
 
-- not yet
+- 5주차 강의 내용 실습
+- Weather_forecast DAG 구현
+- AIRFLOW 환경 설정 변경
 
 ### 6주
 
