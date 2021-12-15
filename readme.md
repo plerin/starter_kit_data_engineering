@@ -32,7 +32,12 @@
 
 ### 6주
 
-- not yet
+- 6주 실습 코드 실행하기(MySQL_DAG, Summary_DAG)
+- MySQL_v3_DAG를 Backfill로 실행하기(command line)
+- 일별 nps를 주제로 summary_DAG 만들기
+
+1. SQL 구현
+2. SQL를 기반으로 DAG를 만들어 각자 스키마 내에 nps_summary 테이블 구성
 
 ### 7주
 
